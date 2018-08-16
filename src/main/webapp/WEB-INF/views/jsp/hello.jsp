@@ -18,10 +18,10 @@
 	</div>
   </div>
 </nav>
- Excellent !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
 <div class="jumbotron">
   <div class="container">
-	<h1>${title}</h1>
+	<h1> Excellent !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1</h1>
 	<p>
 		<c:if test="${not empty name}">
 			Hello ${name} - 
