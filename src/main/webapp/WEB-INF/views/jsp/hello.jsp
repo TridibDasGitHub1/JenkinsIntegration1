@@ -14,14 +14,14 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project Tridib Developed</a>
+		<a class="navbar-brand" href="#">Spring 3 MVC Project Tridib Das Developed  </a>
 	</div>
   </div>
 </nav>
 
 <div class="jumbotron">
   <div class="container">
-	<h1> Excellent !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1</h1>
+	<h1> Excellent 55555555</h1>
 	<p>
 		<c:if test="${not empty name}">
 			Hello ${name} - 
