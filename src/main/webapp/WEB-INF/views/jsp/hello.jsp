@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project Tridib Das Developed hurray  </a>
+		<a class="navbar-brand" href="#">Spring 3 MVC Project Tridib Das Developed  Kuntal verifying  </a>
 	</div>
   </div>
 </nav>
